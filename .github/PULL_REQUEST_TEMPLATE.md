@@ -1,3 +1,4 @@
+
 ## What problem(s) was I solving?
 
 ## What user-facing changes did I ship?
@@ -10,4 +11,4 @@
 
 ## Description for the changelog
 
-## A picture of a cute animal (not mandatory but encouraged)
+## A picture of a 'cute' animal (not mandatory but encouraged)
